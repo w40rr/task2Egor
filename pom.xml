@@ -11,7 +11,7 @@
 	<groupId>ru.egor</groupId>
 	<artifactId>tgBot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>tgBot</name>
 	<description>Delivery automation bot</description>
 	<url/>
 	<licenses>
